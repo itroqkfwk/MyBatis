@@ -1,1 +1,1 @@
-# MyBatis
+# MyBatis 실습
